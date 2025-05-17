@@ -10,8 +10,8 @@ API REST desenvolvida com ASP.NET Core para gerenciar operadoras, contratos e fa
 ## ⚙️ Configuração
 
 1. Clone o repositório:
-   git clone https://github.com/matheuslima19/telecom-api.git
-   cd telecom-api
+   - git clone https://github.com/matheuslima19/telecom-api.git
+   - cd telecom-api
 
 2. Configure a string de conexão no appsettings.json:
 
@@ -42,17 +42,16 @@ https://localhost:5032
 
 ## 🧪 Tecnologias
 
-- ASP.NET Core 7
+- ASP.NET Core 9
 - Entity Framework Core + PostgreSQL
 - AutoMapper
-- MailKit
 - HostedService
 
 ## 📁 Estrutura principal
 
-Controllers/
-Domain/
-Application/
-Infrastructure/
-Program.cs
-appsettings.json
+├── Controllers/
+├── Domain/
+├── Application/
+├── Infrastructure/
+├── Program.cs
+└── appsettings.json
