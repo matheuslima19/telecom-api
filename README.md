@@ -1,6 +1,6 @@
 # Gestão Telecom - Backend
 
-API REST desenvolvida com ASP.NET Core para gerenciar operadoras, contratos e faturas. Também inclui um serviço em background que envia e-mails de alerta para contratos vencendo em até 5 dias.
+API REST desenvolvida com ASP.NET Core para gerenciar operadoras, contratos e faturas.
 
 ## ✅ Pré-requisitos
 
