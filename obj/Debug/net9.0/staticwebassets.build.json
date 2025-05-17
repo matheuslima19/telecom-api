@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GuAdQF8lK6R9xEAr+JfFiqsacA8BeoAdO+/MN5zANtM=",
+  "Source": "TelecomApi",
+  "BasePath": "_content/TelecomApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

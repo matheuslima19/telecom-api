@@ -1,0 +1,6 @@
+@TelecomApi_HostAddress = http://localhost:5032
+
+GET {{TelecomApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
